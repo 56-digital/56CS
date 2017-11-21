@@ -1,0 +1,17 @@
+{
+  "name": "56cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "css": "postcss '*.css' -w --use postcss-cssnext --dir dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timur Fattahov <timur@56.digital> (timur.black)",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss-clean": "^1.1.0",
+    "postcss-cli": "^4.1.1",
+    "postcss-cssnext": "^3.0.2"
+  }
+}
