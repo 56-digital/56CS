@@ -3,4 +3,5 @@ node_modules/
 *.png
 dist/
 .DS_Store
-*/.DS_Store
+assets/.DS_Store
+assets/tiny/.DS_Store
